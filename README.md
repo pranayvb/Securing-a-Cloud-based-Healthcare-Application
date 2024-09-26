@@ -1,4 +1,3 @@
-# Vulnerability-Assessment-of-a-Cloud-based-Healthcare-Application-
 
 # **Securing a Cloud-based Healthcare Application: Midterm & Final Project**
 
