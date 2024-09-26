@@ -3,6 +3,11 @@
 
 This repository contains the findings, reports, and architectural design for securing a healthcare company's cloud-based application. This project was completed as part of the **ENPM665-Cloud Security Course** taught by **Kevin Shivers**, with a focus on identifying vulnerabilities and proposing a secure infrastructure for handling sensitive patient data, including medical records and billing information.
 
+**team members**
+-Pranay Venkata Bhamidipati 
+-Kushangi Nilpeshbhai Patel
+-James Graves 
+
 ## **Midterm Project Overview**
 
 In the midterm phase, we conducted a thorough vulnerability assessment of the cloud infrastructure used by the healthcare company. The following key issues were identified:
